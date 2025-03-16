@@ -1,0 +1,38 @@
+[
+    {
+        "name": "Obrad Djuric",
+        "age": 25,
+        "height": 1.75,
+        "gender": "male"
+    },
+    {
+        "name": "Tanja Petrovic",
+        "age": 26,
+        "height": 1.7,
+        "gender": "female"
+    },
+    {
+        "name": "Milan Krunic",
+        "age": 23,
+        "height": 1.9,
+        "gender": "male"
+    },
+    {
+        "name": "Petar Petrovic",
+        "age": 18,
+        "height": 185,
+        "gender": "male"
+    },
+    {
+        "name": "Petar Petrovic",
+        "age": 18,
+        "height": 185,
+        "gender": "male"
+    },
+    {
+        "name": "Petar Petrovic",
+        "age": 18,
+        "height": 185,
+        "gender": "male"
+    }
+]
