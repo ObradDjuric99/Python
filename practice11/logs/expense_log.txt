@@ -1,0 +1,2 @@
+Ammount:5000, user:1, dateTime:2025-03-19, Budget:45000,budget_left:40000
+Ammount:214, user:1, dateTime:2025-03-19, Budget:45000,budget_left:44786

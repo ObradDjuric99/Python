@@ -1,0 +1,8 @@
+{
+  "id": "1",
+  "name": "Obrad",
+  "age":25,
+  "budget": 30000,
+  "credit": 15000,
+  "currency": "eur"
+}
