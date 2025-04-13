@@ -1,0 +1,39 @@
+mysql
+
+sql - structured query language
+
+-----------------------------
+Baza (database)
+Tabele (tables)
+
+baza: WebProdavnica
+    Tabele:
+        korisnici,
+            id - broj jmbg..
+            name - ime,
+        kupovine,
+            number - broj kupovina,
+            id -
+            price..
+        korpa..
+
+Query:
+
+CRUD : Create, Read, Update, Delete
+    -upit ka bazi da izvuce podatke
+        -> SELECT: uzmi podatke
+            -> SELECT name FROM users -> uzmi imena od korisnika
+        -> INSERT INTO: upisemo podatke
+            -> INSERT INTO users -> napravi novog korisnika
+
+        - DELETE: Brisemo podatke iz baze
+            -> DELETE FROM users WHERE name = "Toma" -> brisemo korisnika koji se zove toma
+
+        -> UPDATE: updatovati ili azurirati neki podatak
+
+
+Nacini za konekciju sa bazom:
+    -> PyCharm
+    -> MySql workbrench
+    -> Datagrip
+    -> terminal
